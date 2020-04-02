@@ -39,7 +39,7 @@
                 $('.searchInput').keyup(function(){
                     $('#item-template').empty();
                     let searchString = $('.searchInput').val();
-                    const results = lookupData.filter(({name}) => name.includes(searchString));
+                    const results = lookupData.filter(({name}) => name.includes(searchString.toLowerCase()));
                     
                     var theTemplate = Handlebars.compile(theTemplateScript);
                     var theCompiledHtml = theTemplate(results);
@@ -51,6 +51,13 @@
         </script>
 
         <style>
+            .version {
+                color: #ddd;
+                position: absolute;
+                right: 10px;
+                top: 10px;
+            }
+
             .fas {
                 position: absolute;
                 right: 0;
@@ -67,6 +74,7 @@
         </style>
     </head>
     <body>
+        <div class="version">0.1.0</div>
         <div class="container my-4">
             <h3>Animal Crossing Critter Lookup</h3>
         </div>
