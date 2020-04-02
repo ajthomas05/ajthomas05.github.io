@@ -1,484 +1,482 @@
-{
-	"data":[
-	  {
-	    "name": "agrias butterflu",
-	    "price": 3000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "ant",
-	    "price": 80,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "atlas moth",
-	    "price": 3000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "bagworm",
-	    "price": 600,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "banded dragonfly",
-	    "price": 4500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "bell cricket",
-	    "price": 430,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "blue weevil beetle",
-	    "price": 800,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "brown cicada",
-	    "price": 250,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "centipede",
-	    "price": 300,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "cicada shell",
-	    "price": 10,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "citrus long-horned beetle",
-	    "price": 350,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "common bluebottle",
-	    "price": 300,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "common butterfly",
-	    "price": 160,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "cricket",
-	    "price": 130,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "cyclommatus stag",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "damselfly",
-	    "price": 500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "darner dragonfly",
-	    "price": 230,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "diving beetle",
-	    "price": 800,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "drone beetle",
-	    "price": 200,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "dung beetle",
-	    "price": 2500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "earth-boring dung beetle",
-	    "price": 300,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "emporer butterfly",
-	    "price": 4000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "evening cicada",
-	    "price": 550,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "firefly",
-	    "price": 300,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "flea",
-	    "price": 70,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "fly",
-	    "price": 60,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "giant cicada",
-	    "price": 500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "giant stag",
-	    "price": 10000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "giant water bug",
-	    "price": 2000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "giraffe stag",
-	    "price": 12000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "golden stag",
-	    "price": 12000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "goliath beetle",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "grasshopper",
-	    "price": 160,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "great purple emporer",
-	    "price": 3000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "hermit crab",
-	    "price": 1000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "honeybee",
-	    "price": 200,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "horned atlas",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "horned dynastid",
-	    "price": 1350,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "horned elephant",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "horned hercules",
-	    "price": 12000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "jewel beetle",
-	    "price": 2400,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "ladybug",
-	    "price": 200,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "long locust",
-	    "price": 200,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "madagascan sunset moth",
-	    "price": 2500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "man-faced stink bug",
-	    "price": 1000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "mantis",
-	    "price": 430,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "migratory locust",
-	    "price": 600,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "miyama stag",
-	    "price": 1000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "mole cricket",
-	    "price": 500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "monarch butterfly",
-	    "price": 140,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "mosquito",
-	    "price": 130,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "moth",
-	    "price": 130,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "orchid mantis",
-	    "price": 2400,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "paper kite butterfly",
-	    "price": 1000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "peacock butterfly",
-	    "price": 2500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "pill bug",
-	    "price": 250,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "pondskater",
-	    "price": 130,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "queen alexandra's birdwing",
-	    "price": 4000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "rainbow stag",
-	    "price": 6000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "raja brooke's birdwing",
-	    "price": 2500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "red dragonfly",
-	    "price": 180,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "rice grasshopper",
-	    "price": 180,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "robust cicada",
-	    "price": 300,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "rosalia batesi beetle",
-	    "price": 3000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "saw stag",
-	    "price": 2000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "scarab beetle",
-	    "price": 10000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "scorpion",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "snail",
-	    "price": 250,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "spider",
-	    "price": 480,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "stink bug",
-	    "price": 120,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "tarantula",
-	    "price": 8000,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "tiger beetle",
-	    "price": 1500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "tiger butterfly",
-	    "price": 240,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "violin beetle",
-	    "price": 450,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "walker cicada",
-	    "price": 400,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "walking leaf",
-	    "price": 600,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "walking stick",
-	    "price": 600,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "wasp",
-	    "price": 2500,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "wharf roach",
-	    "price": 200,
-	    "type": "bug",
-	    "months": ""
-	  },
-	  {
-	    "name": "yellow butterfly",
-	    "price": "bug",
-	    "type": "",
-	    "months": ""
-	  }
-	]
-}
+[
+   {
+      "name":"agrias butterflu",
+      "price":3000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"ant",
+      "price":80,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"atlas moth",
+      "price":3000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"bagworm",
+      "price":600,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"banded dragonfly",
+      "price":4500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"bell cricket",
+      "price":430,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"blue weevil beetle",
+      "price":800,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"brown cicada",
+      "price":250,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"centipede",
+      "price":300,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"cicada shell",
+      "price":10,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"citrus long-horned beetle",
+      "price":350,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"common bluebottle",
+      "price":300,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"common butterfly",
+      "price":160,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"cricket",
+      "price":130,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"cyclommatus stag",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"damselfly",
+      "price":500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"darner dragonfly",
+      "price":230,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"diving beetle",
+      "price":800,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"drone beetle",
+      "price":200,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"dung beetle",
+      "price":2500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"earth-boring dung beetle",
+      "price":300,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"emporer butterfly",
+      "price":4000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"evening cicada",
+      "price":550,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"firefly",
+      "price":300,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"flea",
+      "price":70,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"fly",
+      "price":60,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"giant cicada",
+      "price":500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"giant stag",
+      "price":10000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"giant water bug",
+      "price":2000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"giraffe stag",
+      "price":12000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"golden stag",
+      "price":12000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"goliath beetle",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"grasshopper",
+      "price":160,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"great purple emporer",
+      "price":3000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"hermit crab",
+      "price":1000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"honeybee",
+      "price":200,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"horned atlas",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"horned dynastid",
+      "price":1350,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"horned elephant",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"horned hercules",
+      "price":12000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"jewel beetle",
+      "price":2400,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"ladybug",
+      "price":200,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"long locust",
+      "price":200,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"madagascan sunset moth",
+      "price":2500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"man-faced stink bug",
+      "price":1000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"mantis",
+      "price":430,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"migratory locust",
+      "price":600,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"miyama stag",
+      "price":1000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"mole cricket",
+      "price":500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"monarch butterfly",
+      "price":140,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"mosquito",
+      "price":130,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"moth",
+      "price":130,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"orchid mantis",
+      "price":2400,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"paper kite butterfly",
+      "price":1000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"peacock butterfly",
+      "price":2500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"pill bug",
+      "price":250,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"pondskater",
+      "price":130,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"queen alexandra's birdwing",
+      "price":4000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"rainbow stag",
+      "price":6000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"raja brooke's birdwing",
+      "price":2500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"red dragonfly",
+      "price":180,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"rice grasshopper",
+      "price":180,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"robust cicada",
+      "price":300,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"rosalia batesi beetle",
+      "price":3000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"saw stag",
+      "price":2000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"scarab beetle",
+      "price":10000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"scorpion",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"snail",
+      "price":250,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"spider",
+      "price":480,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"stink bug",
+      "price":120,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"tarantula",
+      "price":8000,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"tiger beetle",
+      "price":1500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"tiger butterfly",
+      "price":240,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"violin beetle",
+      "price":450,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"walker cicada",
+      "price":400,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"walking leaf",
+      "price":600,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"walking stick",
+      "price":600,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"wasp",
+      "price":2500,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"wharf roach",
+      "price":200,
+      "type":"bug",
+      "months":""
+   },
+   {
+      "name":"yellow butterfly",
+      "price":"bug",
+      "type":"",
+      "months":""
+   }
+]
