@@ -23,7 +23,7 @@
                 // Handlebars
                 var theTemplateScript = $("#item-template").html();
 
-                $.getJSON("https://raw.githubusercontent.com/ajthomas05/data/master/acnh.json").done(function(data){
+                $.getJSON("https://ajthomas05.github.io/acnh.json").done(function(data){
                     console.log(data);
                     lookupData = data;
                 });
@@ -85,7 +85,7 @@
                 <li class="list-group-item">Vestibulum at eros<i class="mr-3 fas fa-bug fa-lg"></i></li>-->
 
                 <script id="item-template" type="text/x-handlebars-template">
-                    {{#each data}}
+                    {{#each this}}
                     <li class="list-group-item">{{name}}<i class="mr-3 fas fa-bug fa-lg"></i></li>
                     {{/each}}
                 </script>
