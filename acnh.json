@@ -475,7 +475,7 @@
    },
    {
       "name":"yellow butterfly",
-      "price":"160",
+      "price":160,
       "type":"bug",
       "months":""
    }
