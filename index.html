@@ -22,10 +22,13 @@
 
                 // Handlebars
                 var theTemplateScript = $("#item-template").html();
+                var theTemplate = Handlebars.compile(theTemplateScript);
 
                 $.getJSON("https://ajthomas05.github.io/acnh.json").done(function(data){
                     console.log(data);
                     lookupData = data;
+                    var theCompiledHtml = theTemplate(lookupData);
+                    $('.content-placeholder').html(theCompiledHtml);
                 });
 
                 $('.list-group-item').click(function(){
@@ -79,17 +82,19 @@
                         
                     </div>
                 </li>-->
-                <!--<li class="list-group-item">Dapibus ac facilisis in<i class="mr-3 fas fa-fish fa-lg"></i></li>
-                <li class="list-group-item">Morbi leo risus<i class="mr-3 fas fa-bug fa-lg"></i></li>
-                <li class="list-group-item">Porta ac consectetur ac<i class="mr-3 fas fa-fish fa-lg"></i></li>
-                <li class="list-group-item">Vestibulum at eros<i class="mr-3 fas fa-bug fa-lg"></i></li>-->
-
-                <script id="item-template" type="text/x-handlebars-template">
-                    {{#each this}}
-                    <li class="list-group-item">{{name}}<i class="mr-3 fas fa-bug fa-lg"></i></li>
-                    {{/each}}
-                </script>
             </ul>
         </div>
     </body>
+
+    <script id="item-template" type="text/x-handlebars-template">
+        {{#each this}}
+        <li class="list-group-item">
+            <div class="row">
+                <div class="col-3">{{name}}</div>
+                <div class="col-3">${{price}}</div>
+                <div class="col-6 text-right"><i class="mr-3 fas fa-{{type}} fa-lg"></i></div>
+            </div>
+        </li>
+        {{/each}}
+    </script>
 </html>
