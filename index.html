@@ -24,7 +24,7 @@
                 var theTemplateScript = $("#item-template").html();
                 var theTemplate = Handlebars.compile(theTemplateScript);
 
-                $.getJSON("https://ajthomas05.github.io/acnh.json").done(function(data){
+                $.getJSON("https://ajthomas05.github.io/acnh2.json").done(function(data){
                     console.log(data);
                     lookupData = data;
                     var theCompiledHtml = theTemplate(lookupData);
@@ -74,7 +74,7 @@
         </style>
     </head>
     <body>
-        <div class="version">0.1.0</div>
+        <div class="version">0.1.2</div>
         <div class="container my-4">
             <h3>Animal Crossing Critter Lookup</h3>
         </div>
