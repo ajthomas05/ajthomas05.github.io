@@ -17,6 +17,17 @@
         <script src="https://kit.fontawesome.com/a4fb863752.js" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
 
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34405318-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-34405318-3');
+        </script>
+
+
         <script>
             $(document).ready(function() {
                 let lookupData = [];
@@ -40,6 +51,9 @@
                 $('.searchInput').keyup(function(){
                     $('#item-template').empty();
                     let searchString = $('.searchInput').val();
+
+                    ga('send', 'event', 'search', 'search', 'Search Term', searchString);
+
                     let searchLower = searchString.toLowerCase();
                     const results = lookupData.filter(({name}) => name.toLowerCase().includes(searchString.toLowerCase()));
                     
@@ -51,10 +65,13 @@
 
                 // Expand details
                 $(document).on('click','li.list-group-item',function(){
+                    let name = $(this).data('name');
+                    ga('send', 'event', 'item', 'expand', '', name);
                     $($(this).children('.deets')[0]).slideToggle();
                 });
 
                 $('.expandAll').click(function(){
+                    ga('send', 'event', 'item', 'expand', '', 'all');
                     $('.deets').slideDown();
                     $('.expandAll').hide();
                     $('.collapseAll').show();
@@ -62,6 +79,7 @@
                 });
 
                 $('.collapseAll').click(function(){
+                    ga('send', 'event', 'item', 'collapse', '', 'all');
                     $('.deets').slideUp();
                     $('.collapseAll').hide();
                     $('.expandAll').show();
@@ -116,11 +134,18 @@
 
     <script id="item-template" type="text/x-handlebars-template">
         {{#each this}}
-        <li class="list-group-item">
+        <li class="list-group-item" data-name="{{name}}">
             <div class="row">
                 <div class="col-7 col-lg-3"><strong>{{name}}</strong></div>
                 <div class="col-3">${{price}}</div>
-                <div class="col-2 col-lg-6 text-right"><i class="mr-3 fas fa-{{type}} fa-lg"></i></div>
+                <div class="col-2 col-lg-6 text-right">
+                    <i class="mr-3 fas fa-{{type}} fa-lg"></i>
+                    {{!--{{#if (eq type "shell")}}
+                        <i class="mr-3 fas fa-gripfire fa-lg"></i>
+                    {{else}}
+                        <i class="mr-3 fas fa-{{type}} fa-lg"></i>
+                    {{/if}}--}}
+                </div>
             </div>
             <div class="row deets">
                 <div class="col-12 mt-3">
