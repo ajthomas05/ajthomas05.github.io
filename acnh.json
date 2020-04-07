@@ -1,1042 +1,1281 @@
 [
    {
-      "name":"agrias butterfly",
-      "price":3000,
-      "type":"bug",
-      "months":""
+       "name": "Agrias Butterfly",
+       "price": "3000",
+       "type": "bug",
+       "months": "April, May, June, July, August, September",
+       "hours": "8AM-5PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Anchovy",
+       "price": "200",
+       "type": "fish",
+       "months": "All",
+       "hours": "4AM-9PM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Angelfish",
+       "price": "3000",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "4PM-9AM",
+       "locations": "River"
+   },
+   {
+       "name": "Ant",
+       "price": "80",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "On rotten food on the floor"
+   },
+   {
+       "name": "Arapaima",
+       "price": "10000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "River"
+   },
+   {
+       "name": "Arowana",
+       "price": "10000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "River"
+   },
+   {
+       "name": "Atlas Moth",
+       "price": "3000",
+       "type": "bug",
+       "months": "April, May, June, July, August, September",
+       "hours": "7PM-4AM",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Bagworm",
+       "price": "600",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "Falls out of shaken trees"
+   },
+   {
+       "name": "Banded Dragonfly",
+       "price": "4500",
+       "type": "bug",
+       "months": "May, June, July, August, September, October",
+       "hours": "8AM-5PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Barred Knifejaw",
+       "price": "5000",
+       "type": "fish",
+       "months": "March, April, May, June, July, August, September, October, November",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Barreleye",
+       "price": "15000",
+       "type": "fish",
+       "months": "All",
+       "hours": "9PM-4AM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Bell Cricket",
+       "price": "430",
+       "type": "bug",
+       "months": "September, October",
+       "hours": "5PM-8AM",
+       "locations": "Hopping on the floor"
+   },
+   {
+       "name": "Betta",
+       "price": "2500",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "9AM-4PM",
+       "locations": "River"
    },
    {
-      "name":"ant",
-      "price":80,
-      "type":"bug",
-      "months":""
+       "name": "Bitterling",
+       "price": "900",
+       "type": "fish",
+       "months": "January, February, March, November, December",
+       "hours": "All",
+       "locations": "River"
    },
    {
-      "name":"atlas moth",
-      "price":3000,
-      "type":"bug",
-      "months":""
+       "name": "Black Bass",
+       "price": "400",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "River"
    },
    {
-      "name":"bagworm",
-      "price":600,
-      "type":"bug",
-      "months":""
+       "name": "Blowfish",
+       "price": "5000",
+       "type": "fish",
+       "months": "January, February, November, December",
+       "hours": "9PM-4AM",
+       "locations": "Sea"
    },
    {
-      "name":"banded dragonfly",
-      "price":4500,
-      "type":"bug",
-      "months":""
+       "name": "Blue Marlin",
+       "price": "10000",
+       "type": "fish",
+       "months": "January, February, March, April, July, August, September, November, December",
+       "hours": "All",
+       "locations": "Pier"
    },
    {
-      "name":"bell cricket",
-      "price":430,
-      "type":"bug",
-      "months":""
+       "name": "Blue Weevil Beetle",
+       "price": "800",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "All"
    },
    {
-      "name":"blue weevil beetle",
-      "price":800,
-      "type":"bug",
-      "months":""
+       "name": "Bluegill",
+       "price": "180",
+       "type": "fish",
+       "months": "All",
+       "hours": "9AM-4PM",
+       "locations": "River"
    },
    {
-      "name":"brown cicada",
-      "price":250,
-      "type":"bug",
-      "months":""
+       "name": "Brown Cicada",
+       "price": "250",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "8AM-5PM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"centipede",
-      "price":300,
-      "type":"bug",
-      "months":""
+       "name": "Butterfly Fish",
+       "price": "1000",
+       "type": "fish",
+       "months": "April, May, June, July, August, September",
+       "hours": "All",
+       "locations": "Sea"
    },
    {
-      "name":"cicada shell",
-      "price":10,
-      "type":"bug",
-      "months":""
+       "name": "Carp",
+       "price": "300",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Pond"
    },
    {
-      "name":"citrus long-horned beetle",
-      "price":350,
-      "type":"bug",
-      "months":""
+       "name": "Catfish",
+       "price": "800",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "4PM-9AM",
+       "locations": "Pond"
    },
    {
-      "name":"common bluebottle",
-      "price":300,
-      "type":"bug",
-      "months":""
+       "name": "Centipede",
+       "price": "300",
+       "type": "bug",
+       "months": "All except July, August",
+       "hours": "4PM-11PM",
+       "locations": "Crawls from under rocks when you hit them"
    },
    {
-      "name":"common butterfly",
-      "price":160,
-      "type":"bug",
-      "months":""
+       "name": "Char",
+       "price": "3800",
+       "type": "fish",
+       "months": "March, April, May, June, September, October, November",
+       "hours": "4PM-9AM",
+       "locations": "River (clifftop)"
    },
    {
-      "name":"cricket",
-      "price":130,
-      "type":"bug",
-      "months":""
+       "name": "Cherry Salmon",
+       "price": "1000",
+       "type": "fish",
+       "months": "March, April, May, June, September, October, November",
+       "hours": "4PM-9AM",
+       "locations": "River (clifftop)"
    },
    {
-      "name":"cyclommatus stag",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "Cicada Shell",
+       "price": "10",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "All",
+       "locations": "On the side of trees"
    },
    {
-      "name":"damselfly",
-      "price":500,
-      "type":"bug",
-      "months":""
+       "name": "Citrus Long-horned Beetle",
+       "price": "350",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "Spawns on chopped tree stumps (use axe, not stone axe, to chop down)"
    },
    {
-      "name":"darner dragonfly",
-      "price":230,
-      "type":"bug",
-      "months":""
+       "name": "Clown Fish",
+       "price": "650",
+       "type": "fish",
+       "months": "April, May, June, July, August, September",
+       "hours": "All",
+       "locations": "Sea"
    },
    {
-      "name":"diving beetle",
-      "price":800,
-      "type":"bug",
-      "months":""
+       "name": "Coelacanth",
+       "price": "15000",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Sea (rainy day)"
    },
    {
-      "name":"drone beetle",
-      "price":200,
-      "type":"bug",
-      "months":""
+       "name": "Common Bluebottle",
+       "price": "300",
+       "type": "bug",
+       "months": "April, May, June, July, Aug",
+       "hours": "4AM-7PM",
+       "locations": "Flying around"
    },
    {
-      "name":"dung beetle",
-      "price":2500,
-      "type":"bug",
-      "months":""
+       "name": "Common Butterfly",
+       "price": "160",
+       "type": "bug",
+       "months": "All except Jul & Aug",
+       "hours": "4AM-7PM",
+       "locations": "Flying around"
    },
    {
-      "name":"earth-boring dung beetle",
-      "price":300,
-      "type":"bug",
-      "months":""
+       "name": "Crawfish",
+       "price": "200",
+       "type": "fish",
+       "months": "April, May, June, July, August, September",
+       "hours": "All",
+       "locations": "Pond"
    },
    {
-      "name":"emporer butterfly",
-      "price":4000,
-      "type":"bug",
-      "months":""
+       "name": "Cricket",
+       "price": "130",
+       "type": "bug",
+       "months": "September, October, November",
+       "hours": "5PM-8AM",
+       "locations": "Hopping on the floor"
    },
    {
-      "name":"evening cicada",
-      "price":550,
-      "type":"bug",
-      "months":""
+       "name": "Crucian Carp",
+       "price": "160",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "River"
    },
    {
-      "name":"firefly",
-      "price":300,
-      "type":"bug",
-      "months":""
+       "name": "Cyclommatus Stag",
+       "price": "8000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"flea",
-      "price":70,
-      "type":"bug",
-      "months":""
+       "name": "Dab",
+       "price": "300",
+       "type": "fish",
+       "months": "January, February, March, April, October, November, December",
+       "hours": "All",
+       "locations": "Sea"
    },
    {
-      "name":"fly",
-      "price":60,
-      "type":"bug",
-      "months":""
+       "name": "Dace",
+       "price": "240",
+       "type": "fish",
+       "months": "All",
+       "hours": "4PM-9AM",
+       "locations": "River"
    },
    {
-      "name":"giant cicada",
-      "price":500,
-      "type":"bug",
-      "months":""
+       "name": "Damselfly",
+       "price": "500",
+       "type": "bug",
+       "months": "January, February, November, December",
+       "hours": "All",
+       "locations": "Flying around"
    },
    {
-      "name":"giant stag",
-      "price":10000,
-      "type":"bug",
-      "months":""
+       "name": "Darner Dragonfly",
+       "price": "230",
+       "type": "bug",
+       "months": "April, May, June, July, August, September, October",
+       "hours": "8AM-5PM",
+       "locations": "Flying around"
    },
    {
-      "name":"giant water bug",
-      "price":2000,
-      "type":"bug",
-      "months":""
+       "name": "Diving Beetle",
+       "price": "800",
+       "type": "bug",
+       "months": "May, June, July, August, September",
+       "hours": "8AM-7PM",
+       "locations": "Scooting on the top of rivers and ponds"
    },
    {
-      "name":"giraffe stag",
-      "price":12000,
-      "type":"bug",
-      "months":""
+       "name": "Dorado",
+       "price": "15000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4AM-9PM",
+       "locations": "River"
    },
    {
-      "name":"golden stag",
-      "price":12000,
-      "type":"bug",
-      "months":""
+       "name": "Drone Beetle",
+       "price": "200",
+       "type": "bug",
+       "months": "June, July, August",
+       "hours": "All",
+       "locations": "On the side of trees"
    },
    {
-      "name":"goliath beetle",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "Dung Beetle",
+       "price": "2500",
+       "type": "bug",
+       "months": "January, February, December",
+       "hours": "All",
+       "locations": "Rolling balls of dung around"
    },
    {
-      "name":"grasshopper",
-      "price":160,
-      "type":"bug",
-      "months":""
+       "name": "Earth-boring Dung Beetle",
+       "price": "300",
+       "type": "bug",
+       "months": "July, August, September",
+       "hours": "All",
+       "locations": "Rolling balls of dung around"
    },
    {
-      "name":"great purple emporer",
-      "price":3000,
-      "type":"bug",
-      "months":""
+       "name": "Emperor Butterfly",
+       "price": "4000",
+       "type": "bug",
+       "months": "January, February, March, June, July, August, September, December",
+       "hours": "5PM-8AM",
+       "locations": "Flying around"
    },
    {
-      "name":"hermit crab",
-      "price":1000,
-      "type":"bug",
-      "months":""
+       "name": "Evening Cicada",
+       "price": "550",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "4AM-8AM, 4PM-7PM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"honeybee",
-      "price":200,
-      "type":"bug",
-      "months":""
+       "name": "Firefly",
+       "price": "300",
+       "type": "bug",
+       "months": "June",
+       "hours": "7PM-4AM",
+       "locations": "Flying around"
    },
    {
-      "name":"horned atlas",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "Flea",
+       "price": "70",
+       "type": "bug",
+       "months": "All except January, February, March, December",
+       "hours": "All",
+       "locations": "Bouncing on certain villager's heads"
    },
    {
-      "name":"horned dynastid",
-      "price":1350,
-      "type":"bug",
-      "months":""
+       "name": "Fly",
+       "price": "60",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "Buzzing around rubbish"
    },
    {
-      "name":"horned elephant",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "Football Fish",
+       "price": "2500",
+       "type": "fish",
+       "months": "January, February, March, November, December",
+       "hours": "4PM-9AM",
+       "locations": "Sea"
    },
    {
-      "name":"horned hercules",
-      "price":12000,
-      "type":"bug",
-      "months":""
+       "name": "Freshwater Goby",
+       "price": "400",
+       "type": "fish",
+       "months": "All",
+       "hours": "4PM-9AM",
+       "locations": "River"
    },
    {
-      "name":"jewel beetle",
-      "price":2400,
-      "type":"bug",
-      "months":""
+       "name": "Frog",
+       "price": "120",
+       "type": "fish",
+       "months": "May, June, July, August",
+       "hours": "All",
+       "locations": "Pond"
    },
    {
-      "name":"ladybug",
-      "price":200,
-      "type":"bug",
-      "months":""
+       "name": "Gar",
+       "price": "6000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "Pond"
    },
    {
-      "name":"long locust",
-      "price":200,
-      "type":"bug",
-      "months":""
+       "name": "Giant Cicada",
+       "price": "500",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "8AM-5PM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"madagascan sunset moth",
-      "price":2500,
-      "type":"bug",
-      "months":""
+       "name": "Giant Snakehead",
+       "price": "5500",
+       "type": "fish",
+       "months": "June, July, August",
+       "hours": "9AM-4PM",
+       "locations": "Pond"
    },
    {
-      "name":"man-faced stink bug",
-      "price":1000,
-      "type":"bug",
-      "months":""
+       "name": "Giant Stag",
+       "price": "10000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "11PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"mantis",
-      "price":430,
-      "type":"bug",
-      "months":""
+       "name": "Giant Trevally",
+       "price": "4500",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "All",
+       "locations": "Pier"
    },
    {
-      "name":"migratory locust",
-      "price":600,
-      "type":"bug",
-      "months":""
+       "name": "Giant Water Bug",
+       "price": "2000",
+       "type": "bug",
+       "months": "April, May, June, July, August, September",
+       "hours": "7PM-8AM",
+       "locations": "Scooting on the top of rivers and ponds"
    },
    {
-      "name":"miyama stag",
-      "price":1000,
-      "type":"bug",
-      "months":""
+       "name": "Giraffe Stag",
+       "price": "12000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"mole cricket",
-      "price":500,
-      "type":"bug",
-      "months":""
+       "name": "Golden Stag",
+       "price": "12000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"monarch butterfly",
-      "price":140,
-      "type":"bug",
-      "months":""
+       "name": "Golden Trout",
+       "price": "15000",
+       "type": "fish",
+       "months": "March, April, May, September, October, November",
+       "hours": "4PM-9AM",
+       "locations": "River (clifftop)"
    },
    {
-      "name":"mosquito",
-      "price":130,
-      "type":"bug",
-      "months":""
+       "name": "Goldfish",
+       "price": "1300",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Pond"
    },
    {
-      "name":"moth",
-      "price":130,
-      "type":"bug",
-      "months":""
+       "name": "Goliath Beetle",
+       "price": "8000",
+       "type": "bug",
+       "months": "June, July, August, September",
+       "hours": "5PM-8AM",
+       "locations": "On the side of palm trees"
    },
    {
-      "name":"orchid mantis",
-      "price":2400,
-      "type":"bug",
-      "months":""
+       "name": "Grasshopper",
+       "price": "160",
+       "type": "bug",
+       "months": "July, August, September",
+       "hours": "8AM-5PM",
+       "locations": "Hopping on the floor"
    },
    {
-      "name":"paper kite butterfly",
-      "price":1000,
-      "type":"bug",
-      "months":""
+       "name": "Great Purple Emperor",
+       "price": "3000",
+       "type": "bug",
+       "months": "May, June, July, Aug",
+       "hours": "4AM-7PM",
+       "locations": "Flying around"
    },
    {
-      "name":"peacock butterfly",
-      "price":2500,
-      "type":"bug",
-      "months":""
+       "name": "Great White Shark",
+       "price": "15000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "Sea"
    },
    {
-      "name":"pill bug",
-      "price":250,
-      "type":"bug",
-      "months":""
+       "name": "Guppy",
+       "price": "1300",
+       "type": "fish",
+       "months": "April, May, June, July, August, September, October, November",
+       "hours": "9AM-4PM",
+       "locations": "River"
    },
    {
-      "name":"pondskater",
-      "price":130,
-      "type":"bug",
-      "months":""
+       "name": "Hammerhead Shark",
+       "price": "8000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "Sea"
    },
    {
-      "name":"queen alexandra's birdwing",
-      "price":4000,
-      "type":"bug",
-      "months":""
+       "name": "Hermit Crab",
+       "price": "1000",
+       "type": "bug",
+       "months": "All",
+       "hours": "7PM-8AM",
+       "locations": "Looks like a shell but runs away when you get close"
    },
    {
-      "name":"rainbow stag",
-      "price":6000,
-      "type":"bug",
-      "months":""
+       "name": "Honeybee",
+       "price": "200",
+       "type": "bug",
+       "months": "March, April, May, June, July",
+       "hours": "8AM-5PM",
+       "locations": "Flying around"
    },
    {
-      "name":"raja brooke's birdwing",
-      "price":2500,
-      "type":"bug",
-      "months":""
+       "name": "Horned Atlas",
+       "price": "8000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"red dragonfly",
-      "price":180,
-      "type":"bug",
-      "months":""
+       "name": "Horned Dynastid",
+       "price": "1350",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"rice grasshopper",
-      "price":180,
-      "type":"bug",
-      "months":""
+       "name": "Horned Elephant",
+       "price": "8000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"robust cicada",
-      "price":300,
-      "type":"bug",
-      "months":""
+       "name": "Horned Hercules",
+       "price": "12000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "5PM-8AM",
+       "locations": "On the side of trees"
    },
    {
-      "name":"rosalia batesi beetle",
-      "price":3000,
-      "type":"bug",
-      "months":""
+       "name": "Horse Mackerel",
+       "price": "150",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Sea"
    },
    {
-      "name":"saw stag",
-      "price":2000,
-      "type":"bug",
-      "months":""
+       "name": "Jewel Bettle",
+       "price": "2400",
+       "type": "bug",
+       "months": "April, May, June, July, August",
+       "hours": "All",
+       "locations": "Spawns on chopped tree stumps (use axe, not stone axe, to chop down)"
    },
    {
-      "name":"scarab beetle",
-      "price":10000,
-      "type":"bug",
-      "months":""
+       "name": "Killifish",
+       "price": "300",
+       "type": "fish",
+       "months": "April, May, June, July, August",
+       "hours": "All",
+       "locations": "Pond"
    },
    {
-      "name":"scorpion",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "King Salmon",
+       "price": "1800",
+       "type": "fish",
+       "months": "September",
+       "hours": "All",
+       "locations": "River (mouth)"
    },
    {
-      "name":"snail",
-      "price":250,
-      "type":"bug",
-      "months":""
+       "name": "Koi",
+       "price": "4000",
+       "type": "fish",
+       "months": "All",
+       "hours": "4PM-9AM",
+       "locations": "Pond"
    },
    {
-      "name":"spider",
-      "price":480,
-      "type":"bug",
-      "months":""
+       "name": "Ladybug",
+       "price": "200",
+       "type": "bug",
+       "months": "March, April, May, June, October",
+       "hours": "8AM-5PM",
+       "locations": "In bunches of flowers"
    },
    {
-      "name":"stink bug",
-      "price":120,
-      "type":"bug",
-      "months":""
+       "name": "Loach",
+       "price": "400",
+       "type": "fish",
+       "months": "March, April, May",
+       "hours": "All",
+       "locations": "River"
    },
    {
-      "name":"tarantula",
-      "price":8000,
-      "type":"bug",
-      "months":""
+       "name": "Long Locust",
+       "price": "200",
+       "type": "bug",
+       "months": "April, May, June, July, August, September, October, November",
+       "hours": "8AM-7PM",
+       "locations": "Hopping on the floor"
    },
    {
-      "name":"tiger beetle",
-      "price":1500,
-      "type":"bug",
-      "months":""
+       "name": "Madagascan Sunset Moth",
+       "price": "2500",
+       "type": "bug",
+       "months": "April, May, June, July, August, September",
+       "hours": "8AM-4PM",
+       "locations": "Flying around"
    },
    {
-      "name":"tiger butterfly",
-      "price":240,
-      "type":"bug",
-      "months":""
+       "name": "Mahi-mahi",
+       "price": "6000",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "All",
+       "locations": "Pier"
    },
    {
-      "name":"violin beetle",
-      "price":450,
-      "type":"bug",
-      "months":""
+       "name": "Man-faced Stink Bug",
+       "price": "1000",
+       "type": "bug",
+       "months": "All except January, February, November, December",
+       "hours": "7PM-8AM",
+       "locations": "In bunches of flowers"
    },
    {
-      "name":"walker cicada",
-      "price":400,
-      "type":"bug",
-      "months":""
+       "name": "Mantis",
+       "price": "430",
+       "type": "bug",
+       "months": "All except January, February, December",
+       "hours": "8AM-5PM",
+       "locations": "Praying on flowers"
    },
    {
-      "name":"walking leaf",
-      "price":600,
-      "type":"bug",
-      "months":""
+       "name": "Migratory Locust",
+       "price": "600",
+       "type": "bug",
+       "months": "August, September, October, November",
+       "hours": "8AM-7PM",
+       "locations": "Hopping on the floor"
    },
    {
-      "name":"walking stick",
-      "price":600,
-      "type":"bug",
-      "months":""
+       "name": "Mitten Crab",
+       "price": "2000",
+       "type": "fish",
+       "months": "September, October, November",
+       "hours": "4PM-9AM",
+       "locations": "River"
    },
    {
-      "name":"wasp",
-      "price":2500,
-      "type":"bug",
-      "months":""
+       "name": "Miyama Stag",
+       "price": "1000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "All",
+       "locations": "On the side of trees"
    },
    {
-      "name":"wharf roach",
-      "price":200,
-      "type":"bug",
-      "months":""
+       "name": "Mole Cricket",
+       "price": "500",
+       "type": "bug",
+       "months": "January, February, March, April, May, November, December",
+       "hours": "All",
+       "locations": "Dig underground"
    },
    {
-      "name":"yellow butterfly",
-      "price":160,
-      "type":"bug",
-      "months":""
+       "name": "Monarch Butterfly",
+       "price": "140",
+       "type": "bug",
+       "months": "September, October, November",
+       "hours": "N/A",
+       "locations": "Flying around"
    },
    {
-      "name": "Bitterling",
-      "price": "900",
-      "type": "River",
-      "times": "All",
-      "months": "January, February, March, November, December"
-  },
-  {
-      "name": "Pale Chub",
-      "price": "200",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "All"
-  },
-  {
-      "name": "Crucian Carp",
-      "price": "160",
-      "type": "River",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Dace",
-      "price": "240",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "All"
-  },
-  {
-      "name": "Carp",
-      "price": "300",
-      "type": "Pond",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Koi",
-      "price": "4000",
-      "type": "Pond",
-      "times": "4PM-9AM",
-      "months": "All"
-  },
-  {
-      "name": "Goldfish",
-      "price": "1300",
-      "type": "Pond",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Pop-eyed Goldfish",
-      "price": "1300",
-      "type": "Pond",
-      "times": "9AM-4PM",
-      "months": "All"
-  },
-  {
-      "name": "Ranchu Goldfish",
-      "price": "4500",
-      "type": "Pond",
-      "times": "9AM-4PM",
-      "months": "All"
-  },
-  {
-      "name": "Killifish",
-      "price": "300",
-      "type": "Pond",
-      "times": "All",
-      "months": "April, May, June, July, August"
-  },
-  {
-      "name": "Crawfish",
-      "price": "200",
-      "type": "Pond",
-      "times": "All",
-      "months": "April, May, June, July, August, September"
-  },
-  {
-      "name": "Soft-shelled Turtle",
-      "price": "3750",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "August, September"
-  },
-  {
-      "name": "Snapping Turtle",
-      "price": "5000",
-      "type": "River",
-      "times": "9PM-4AM",
-      "months": "April, May, June, July, August, September, October"
-  },
-  {
-      "name": "Tadpole",
-      "price": "100",
-      "type": "Pond",
-      "times": "All",
-      "months": "March, April, May, June, July"
-  },
-  {
-      "name": "Frog",
-      "price": "120",
-      "type": "Pond",
-      "times": "All",
-      "months": "May, June, July, August"
-  },
-  {
-      "name": "Freshwater Goby",
-      "price": "400",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "All"
-  },
-  {
-      "name": "Loach",
-      "price": "400",
-      "type": "River",
-      "times": "All",
-      "months": "March, April, May"
-  },
-  {
-      "name": "Catfish",
-      "price": "800",
-      "type": "Pond",
-      "times": "4PM-9AM",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Giant Snakehead",
-      "price": "5500",
-      "type": "Pond",
-      "times": "9AM-4PM",
-      "months": "June, July, August"
-  },
-  {
-      "name": "Bluegill",
-      "price": "180",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "All"
-  },
-  {
-      "name": "Yellow Perch",
-      "price": "300",
-      "type": "River",
-      "times": "All",
-      "months": "January, February, March, October, November, December"
-  },
-  {
-      "name": "Black Bass",
-      "price": "400",
-      "type": "River",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Tilapia",
-      "price": "800",
-      "type": "River",
-      "times": "All",
-      "months": "June, July, August, September, October"
-  },
-  {
-      "name": "Pike",
-      "price": "1800",
-      "type": "River",
-      "times": "All",
-      "months": "September, October, November, December"
-  },
-  {
-      "name": "Pond Smelt",
-      "price": "500",
-      "type": "River",
-      "times": "All",
-      "months": "January, February, December"
-  },
-  {
-      "name": "Sweetfish",
-      "price": "900",
-      "type": "River",
-      "times": "All",
-      "months": "July, August, September"
-  },
-  {
-      "name": "Cherry Salmon",
-      "price": "1000",
-      "type": "River (clifftop)",
-      "times": "4PM-9AM",
-      "months": "March, April, May, June, September, October, November"
-  },
-  {
-      "name": "Char",
-      "price": "3800",
-      "type": "River (clifftop)",
-      "times": "4PM-9AM",
-      "months": "March, April, May, June, September, October, November"
-  },
-  {
-      "name": "Golden Trout",
-      "price": "15000",
-      "type": "River (clifftop)",
-      "times": "4PM-9AM",
-      "months": "March, April, May, September, October, November"
-  },
-  {
-      "name": "Stringfish",
-      "price": "15000",
-      "type": "River (clifftop)",
-      "times": "4PM-9AM",
-      "months": "January, February, March, December"
-  },
-  {
-      "name": "Salmon",
-      "price": "700",
-      "type": "River (mouth)",
-      "times": "All",
-      "months": "September"
-  },
-  {
-      "name": "King Salmon",
-      "price": "1800",
-      "type": "River (mouth)",
-      "times": "All",
-      "months": "September"
-  },
-  {
-      "name": "Mitten Crab",
-      "price": "2000",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "September, October, November"
-  },
-  {
-      "name": "Guppy",
-      "price": "1300",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "April, May, June, July, August, September, October, November"
-  },
-  {
-      "name": "Nibble Fish",
-      "price": "1500",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "May, June, July, August, September"
-  },
-  {
-      "name": "Angelfish",
-      "price": "3000",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Betta",
-      "price": "2500",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Neon Tetra",
-      "price": "500",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "April, May, June, July, August, September, October, November"
-  },
-  {
-      "name": "Rainbowfish",
-      "price": "800",
-      "type": "River",
-      "times": "9AM-4PM",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Piranha",
-      "price": "2500",
-      "type": "River",
-      "times": "9AM-4PM, 9PM-4AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Arowana",
-      "price": "10000",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Dorado",
-      "price": "15000",
-      "type": "River",
-      "times": "4AM-9PM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Gar",
-      "price": "6000",
-      "type": "Pond",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Arapaima",
-      "price": "10000",
-      "type": "River",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Saddled Bichir",
-      "price": "4000",
-      "type": "River",
-      "times": "9PM-4AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Sturgeon",
-      "price": "10000",
-      "type": "River (mouth)",
-      "times": "All",
-      "months": "January, February, March, September, October, November, December"
-  },
-  {
-      "name": "Sea Butterfly",
-      "price": "1000",
-      "type": "Sea",
-      "times": "All",
-      "months": "January, February, March, December"
-  },
-  {
-      "name": "Sea Horse",
-      "price": "1100",
-      "type": "Sea",
-      "times": "All",
-      "months": "April, May, June, July, August, September, October, November"
-  },
-  {
-      "name": "Clown Fish",
-      "price": "650",
-      "type": "Sea",
-      "times": "All",
-      "months": "April, May, June, July, August, September"
-  },
-  {
-      "name": "Surgeonfish",
-      "price": "1000",
-      "type": "Sea",
-      "times": "All",
-      "months": "April, May, June, July, August, September"
-  },
-  {
-      "name": "Butterfly Fish",
-      "price": "1000",
-      "type": "Sea",
-      "times": "All",
-      "months": "April, May, June, July, August, September"
-  },
-  {
-      "name": "Napoleonfish",
-      "price": "10000",
-      "type": "Sea",
-      "times": "4AM-9PM",
-      "months": "July, August"
-  },
-  {
-      "name": "Zebra Turkeyfish",
-      "price": "500",
-      "type": "Sea",
-      "times": "All",
-      "months": "April, May, June, July, August, September, October, November"
-  },
-  {
-      "name": "Blowfish",
-      "price": "5000",
-      "type": "Sea",
-      "times": "9PM-4AM",
-      "months": "January, February, November, December"
-  },
-  {
-      "name": "Puffer Fish",
-      "price": "250",
-      "type": "Sea",
-      "times": "All",
-      "months": "July, August, September"
-  },
-  {
-      "name": "Anchovy",
-      "price": "200",
-      "type": "Sea",
-      "times": "4AM-9PM",
-      "months": "All"
-  },
-  {
-      "name": "Horse Mackerel",
-      "price": "150",
-      "type": "Sea",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Barred Knifejaw",
-      "price": "5000",
-      "type": "Sea",
-      "times": "All",
-      "months": "March, April, May, June, July, August, September, October, November"
-  },
-  {
-      "name": "Sea Bass",
-      "price": "400",
-      "type": "Sea",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Red Snapper",
-      "price": "3000",
-      "type": "Sea",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Dab",
-      "price": "300",
-      "type": "Sea",
-      "times": "All",
-      "months": "January, February, March, April, October, November, December"
-  },
-  {
-      "name": "Olive Flounder",
-      "price": "800",
-      "type": "Sea",
-      "times": "All",
-      "months": "All"
-  },
-  {
-      "name": "Squid",
-      "price": "500",
-      "type": "Sea",
-      "times": "All",
-      "months": "January, February, March, April, May, June, July, August, December"
-  },
-  {
-      "name": "Moray Eel",
-      "price": "2000",
-      "type": "Sea",
-      "times": "All",
-      "months": "August, September, October"
-  },
-  {
-      "name": "Ribbon Eel",
-      "price": "600",
-      "type": "Sea",
-      "times": "All",
-      "months": "June, July, August, September, October"
-  },
-  {
-      "name": "Tuna",
-      "price": "7000",
-      "type": "Pier",
-      "times": "All",
-      "months": "January, February, March, April, November, December"
-  },
-  {
-      "name": "Blue Marlin",
-      "price": "10000",
-      "type": "Pier",
-      "times": "All",
-      "months": "January, February, March, April, July, August, September, November, December"
-  },
-  {
-      "name": "Giant Trevally",
-      "price": "4500",
-      "type": "Pier",
-      "times": "All",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Mahi-mahi",
-      "price": "6000",
-      "type": "Pier",
-      "times": "All",
-      "months": "May, June, July, August, September, October"
-  },
-  {
-      "name": "Ocean Sunfish",
-      "price": "4000",
-      "type": "Sea",
-      "times": "4AM-9PM",
-      "months": "July, August, September"
-  },
-  {
-      "name": "Ray",
-      "price": "3000",
-      "type": "Sea",
-      "times": "4AM-9PM",
-      "months": "August, September, October, November"
-  },
-  {
-      "name": "Saw Shark",
-      "price": "12000",
-      "type": "Sea",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Hammerhead Shark",
-      "price": "8000",
-      "type": "Sea",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Great White Shark",
-      "price": "15000",
-      "type": "Sea",
-      "times": "4PM-9AM",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Whale Shark",
-      "price": "13000",
-      "type": "Sea",
-      "times": "All",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Suckerfish",
-      "price": "1500",
-      "type": "Sea",
-      "times": "All",
-      "months": "June, July, August, September"
-  },
-  {
-      "name": "Football Fish",
-      "price": "2500",
-      "type": "Sea",
-      "times": "4PM-9AM",
-      "months": "January, February, March, November, December"
-  },
-  {
-      "name": "Oarfish",
-      "price": "9000",
-      "type": "Sea",
-      "times": "All",
-      "months": "January, February, March, April, May, December"
-  },
-  {
-      "name": "Barreleye",
-      "price": "15000",
-      "type": "Sea",
-      "times": "9PM-4AM",
-      "months": "All"
-  },
-  {
-      "name": "Coelacanth",
-      "price": "15000",
-      "type": "Sea (rainy day)",
-      "times": "All",
-      "months": "All"
-  }
+       "name": "Moray Eel",
+       "price": "2000",
+       "type": "fish",
+       "months": "August, September, October",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Mosquito",
+       "price": "130",
+       "type": "bug",
+       "months": "June, July, August, September",
+       "hours": "5PM-4AM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Moth",
+       "price": "130",
+       "type": "bug",
+       "months": "All",
+       "hours": "7PM-4AM",
+       "locations": "Buzzing around lamps and lights outside (there's usually one next to Residential Services)"
+   },
+   {
+       "name": "Napoleonfish",
+       "price": "10000",
+       "type": "fish",
+       "months": "July, August",
+       "hours": "4AM-9PM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Neon Tetra",
+       "price": "500",
+       "type": "fish",
+       "months": "April, May, June, July, August, September, October, November",
+       "hours": "9AM-4PM",
+       "locations": "River"
+   },
+   {
+       "name": "Nibble Fish",
+       "price": "1500",
+       "type": "fish",
+       "months": "May, June, July, August, September",
+       "hours": "9AM-4PM",
+       "locations": "River"
+   },
+   {
+       "name": "Oarfish",
+       "price": "9000",
+       "type": "fish",
+       "months": "January, February, March, April, May, December",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Ocean Sunfish",
+       "price": "4000",
+       "type": "fish",
+       "months": "July, August, September",
+       "hours": "4AM-9PM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Olive Flounder",
+       "price": "800",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Orchid Mantis",
+       "price": "2400",
+       "type": "bug",
+       "months": "All except January, February, December",
+       "hours": "8AM-5PM",
+       "locations": "Praying on white flowers"
+   },
+   {
+       "name": "Pale Chub",
+       "price": "200",
+       "type": "fish",
+       "months": "All",
+       "hours": "9AM-4PM",
+       "locations": "River"
+   },
+   {
+       "name": "Paper Kite Butterfly",
+       "price": "1000",
+       "type": "bug",
+       "months": "All",
+       "hours": "8AM-7PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Peacock Butterfly",
+       "price": "2500",
+       "type": "bug",
+       "months": "March, April, May, June",
+       "hours": "4AM-7PM",
+       "locations": "Flying around \"rare flowers\""
+   },
+   {
+       "name": "Pike",
+       "price": "1800",
+       "type": "fish",
+       "months": "September, October, November, December",
+       "hours": "All",
+       "locations": "River"
+   },
+   {
+       "name": "Pill Bug",
+       "price": "250",
+       "type": "bug",
+       "months": "All except July, August",
+       "hours": "11PM-4PM",
+       "locations": "Crawls from under rocks when you hit them"
+   },
+   {
+       "name": "Piranha",
+       "price": "2500",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "9AM-4PM, 9PM-4AM",
+       "locations": "River"
+   },
+   {
+       "name": "Pond Smelt",
+       "price": "500",
+       "type": "fish",
+       "months": "January, February, December",
+       "hours": "All",
+       "locations": "River"
+   },
+   {
+       "name": "Pondskater",
+       "price": "130",
+       "type": "bug",
+       "months": "May, June, July, August, September",
+       "hours": "8AM-7PM",
+       "locations": "Scooting on the top of rivers and ponds"
+   },
+   {
+       "name": "Pop-eyed Goldfish",
+       "price": "1300",
+       "type": "fish",
+       "months": "All",
+       "hours": "9AM-4PM",
+       "locations": "Pond"
+   },
+   {
+       "name": "Puffer Fish",
+       "price": "250",
+       "type": "fish",
+       "months": "July, August, September",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Queen Alexandra's Birdwing",
+       "price": "4000",
+       "type": "bug",
+       "months": "May, June, July, August, September",
+       "hours": "8AM-4PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Rainbow Stag",
+       "price": "6000",
+       "type": "bug",
+       "months": "June, July, August, September",
+       "hours": "7PM-8AM",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Rainbowfish",
+       "price": "800",
+       "type": "fish",
+       "months": "May, June, July, August, September, October",
+       "hours": "9AM-4PM",
+       "locations": "River"
+   },
+   {
+       "name": "Rajah Brooke's Birdwing",
+       "price": "2500",
+       "type": "bug",
+       "months": "All except March, October, November",
+       "hours": "8AM-5PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Ranchu Goldfish",
+       "price": "4500",
+       "type": "fish",
+       "months": "All",
+       "hours": "9AM-4PM",
+       "locations": "Pond"
+   },
+   {
+       "name": "Ray",
+       "price": "3000",
+       "type": "fish",
+       "months": "August, September, October, November",
+       "hours": "4AM-9PM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Red Dragonfly",
+       "price": "180",
+       "type": "bug",
+       "months": "September, October",
+       "hours": "8AM-7PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Red Snapper",
+       "price": "3000",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Ribbon Eel",
+       "price": "600",
+       "type": "fish",
+       "months": "June, July, August, September, October",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Rice Grasshopper",
+       "price": "160",
+       "type": "bug",
+       "months": "August, September, October, November",
+       "hours": "8AM-7PM",
+       "locations": "Hopping on the floor"
+   },
+   {
+       "name": "Robust Cicada",
+       "price": "300",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "8AM-5PM",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Rosalia Batesi Beetle",
+       "price": "3000",
+       "type": "bug",
+       "months": "May, June, July, August, September",
+       "hours": "All",
+       "locations": "Spawns on chopped tree stumps (use axe, not stone axe, to chop down)"
+   },
+   {
+       "name": "Saddled Bichir",
+       "price": "4000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "9PM-4AM",
+       "locations": "River"
+   },
+   {
+       "name": "Salmon",
+       "price": "700",
+       "type": "fish",
+       "months": "September",
+       "hours": "All",
+       "locations": "River (mouth)"
+   },
+   {
+       "name": "Saw Shark",
+       "price": "12000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "4PM-9AM",
+       "locations": "Sea"
+   },
+   {
+       "name": "Saw Stag",
+       "price": "2000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "All",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Scarab Beetle",
+       "price": "10000",
+       "type": "bug",
+       "months": "July, August",
+       "hours": "11PM-8AM",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Scorpion",
+       "price": "8000",
+       "type": "bug",
+       "months": "May, June, July, August, September, October,",
+       "hours": "7PM-4AM",
+       "locations": "Scurrying around the floor at night - attacks you"
+   },
+   {
+       "name": "Sea Bass",
+       "price": "400",
+       "type": "fish",
+       "months": "All",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Sea Butterfly",
+       "price": "1000",
+       "type": "fish",
+       "months": "January, February, March, December",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Sea Horse",
+       "price": "1100",
+       "type": "fish",
+       "months": "April, May, June, July, August, September, October, November",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Snail",
+       "price": "250",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "On rocks when it's raining"
+   },
+   {
+       "name": "Snapping Turtle",
+       "price": "5000",
+       "type": "fish",
+       "months": "April, May, June, July, August, September, October",
+       "hours": "9PM-4AM",
+       "locations": "River"
+   },
+   {
+       "name": "Soft-shelled Turtle",
+       "price": "3750",
+       "type": "fish",
+       "months": "August, September",
+       "hours": "4PM-9AM",
+       "locations": "River"
+   },
+   {
+       "name": "Spider",
+       "price": "480",
+       "type": "bug",
+       "months": "All",
+       "hours": "7PM-8AM",
+       "locations": "Shake trees at night"
+   },
+   {
+       "name": "Squid",
+       "price": "500",
+       "type": "fish",
+       "months": "January, February, March, April, May, June, July, August, December",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Stinkbug",
+       "price": "120",
+       "type": "bug",
+       "months": "All except January, February, November, December",
+       "hours": "All",
+       "locations": "In bunches of flowers"
+   },
+   {
+       "name": "Stringfish",
+       "price": "15000",
+       "type": "fish",
+       "months": "January, February, March, December",
+       "hours": "4PM-9AM",
+       "locations": "River (clifftop)"
+   },
+   {
+       "name": "Sturgeon",
+       "price": "10000",
+       "type": "fish",
+       "months": "January, February, March, September, October, November, December",
+       "hours": "All",
+       "locations": "River (mouth)"
+   },
+   {
+       "name": "Suckerfish",
+       "price": "1500",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Surgeonfish",
+       "price": "1000",
+       "type": "fish",
+       "months": "April, May, June, July, August, September",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Sweetfish",
+       "price": "900",
+       "type": "fish",
+       "months": "July, August, September",
+       "hours": "All",
+       "locations": "River"
+   },
+   {
+       "name": "Tadpole",
+       "price": "100",
+       "type": "fish",
+       "months": "March, April, May, June, July",
+       "hours": "All",
+       "locations": "Pond"
+   },
+   {
+       "name": "Tarantula",
+       "price": "8000",
+       "type": "bug",
+       "months": "January, February, March, April, November, December",
+       "hours": "7PM-4AM",
+       "locations": "Scurrying around the floor at night - attacks you"
+   },
+   {
+       "name": "Tiger Beetle",
+       "price": "1500",
+       "type": "bug",
+       "months": "All except January, November, Decemeber",
+       "hours": "All",
+       "locations": "Crawling on the floor"
+   },
+   {
+       "name": "Tiger Butterfly",
+       "price": "240",
+       "type": "bug",
+       "months": "March, April, May, June, July, August, September",
+       "hours": "4AM-7PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Tilapia",
+       "price": "800",
+       "type": "fish",
+       "months": "June, July, August, September, October",
+       "hours": "All",
+       "locations": "River"
+   },
+   {
+       "name": "Tuna",
+       "price": "7000",
+       "type": "fish",
+       "months": "January, February, March, April, November, December",
+       "hours": "All",
+       "locations": "Pier"
+   },
+   {
+       "name": "Violin Beetle",
+       "price": "450",
+       "type": "bug",
+       "months": "May, June, September, October, November",
+       "hours": "All",
+       "locations": "Spawns on chopped tree stumps (use axe, not stone axe, to chop down)"
+   },
+   {
+       "name": "Walker Cicada",
+       "price": "400",
+       "type": "bug",
+       "months": "August, September",
+       "hours": "8AM-5PM",
+       "locations": "On the side of trees"
+   },
+   {
+       "name": "Walking Leaf",
+       "price": "600",
+       "type": "bug",
+       "months": "July, August, September",
+       "hours": "All",
+       "locations": "Underneath trees"
+   },
+   {
+       "name": "Walking Stick",
+       "price": "600",
+       "type": "bug",
+       "months": "July, August, September, October, November",
+       "hours": "4AM-8AM, 5PM-7PM",
+       "locations": "Falls out of shaken trees"
+   },
+   {
+       "name": "Wasp",
+       "price": "2500",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "Catch in net when they attack you after shaking or chopping a tree"
+   },
+   {
+       "name": "Whale Shark",
+       "price": "13000",
+       "type": "fish",
+       "months": "June, July, August, September",
+       "hours": "All",
+       "locations": "Sea"
+   },
+   {
+       "name": "Wharf Roach",
+       "price": "200",
+       "type": "bug",
+       "months": "All",
+       "hours": "All",
+       "locations": "On rocks on the beach"
+   },
+   {
+       "name": "Yellow Butterfly",
+       "price": "160",
+       "type": "bug",
+       "months": "March, April, May, June, September, October",
+       "hours": "4AM-7PM",
+       "locations": "Flying around"
+   },
+   {
+       "name": "Yellow Perch",
+       "price": "300",
+       "type": "fish",
+       "months": "January, February, March, October, November, December",
+       "hours": "All",
+       "locations": "River"
+   },
+   {
+       "name": "Zebra Turkeyfish",
+       "price": "500",
+       "type": "fish",
+       "months": "April, May, June, July, August, September, October, November",
+       "hours": "All",
+       "locations": "Sea"
+   }
 ]
