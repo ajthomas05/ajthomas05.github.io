@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1 id="christmasStatus" style="text-align:center;padding-top:20px;"></h1>
+        <div style="width:100%;flex-direction: row;display: flex;align-items: center;justify-content: center;height: 70vh;text-align:center;">
+            <div id="left" style="margin-right:50px;">
+                Since Christmas
+                <div style="border:1px solid rgb(98, 98, 98);border-radius:5px;padding:50px 80px;font-size:120px;margin-top:10px;">
+                    <span id="daysSince"></span>
+                </div>
+            </div>
+            <div id="right" style="margin-left:50px;">
+                Until Christmas
+                <div style="border:1px solid rgb(98, 98, 98);border-radius:5px;padding:50px 80px;font-size:120px;margin-top:10px;">
+                    <span id="daysUntil"></span>
+                </div>
+            </div>
+        </div>
+        
+        <script async defer>
+            (function() {
+                getChristmasDeets();
+             })();
+
+            function getChristmasDeets() {
+                //let rightNow = new Date('2021-12-27T00:00:00');
+                let rightNow = new Date();
+                let thisYear = rightNow.getFullYear();
+                let thisMonth = rightNow.getMonth();
+                let thisDay = rightNow.getDate();
+
+                let isChristmas = false;
+
+                let lastChristmasEnd = new Date(thisYear - 1 + '-12-26T00:00:00');
+                let nextChristmasBegin = new Date(thisYear + '-12-25T00:00:00');
+
+                // It's Christmas!
+                if (thisMonth == 11 && thisDay == 25) {
+                    isChristmas = true;
+                }
+
+                // It's December, Christmas JUST happened
+                else if (thisMonth == 11 && thisDay > 25) {
+                    lastChristmasEnd = new Date(thisYear + '-12-26T00:00:00');
+                    nextChristmasBegin = new Date(thisYear + 1 + '-12-25T00:00:00');
+                }
+
+                let timeSinceChristmas = rightNow - lastChristmasEnd;
+                let timeUntilChristmas = nextChristmasBegin - rightNow;
+
+                // Since Christmas
+                let daysSinceChristmas = timeSinceChristmas / (1000 * 3600 * 24);
+
+                if (timeSinceChristmas > timeUntilChristmas) {
+                    document.getElementById('christmasStatus').innerText = 'It\'s closer to this Chritmas than last Christmas';
+                }
+                else {
+                    document.getElementById('christmasStatus').innerText = 'It\'s closer to last Chritmas than this Christmas';
+                }
+
+                document.getElementById('daysSince').innerText = Math.floor(timeSinceChristmas / (1000 * 3600 * 24));
+                document.getElementById('daysUntil').innerText = Math.ceil(timeUntilChristmas / (1000 * 3600 * 24));
+            }
+        </script>
+    </body>
+</html>
