@@ -26,17 +26,23 @@
 			const imageItem = document.createElement('img');
 			const itemCaption = document.createElement('p');
 
-			let outputValues = [];
+			// Output data from node.js stream
 			let streamData = '';
 
-			// Document ready vanilla js
 			document.addEventListener('DOMContentLoaded', function() {
-				// Fetch feed
-				vanilaApi();
+				// API Key
+				const apiKey = new URLSearchParams(window.location.search)?.get('api');
+				if (apiKey) {
+					// Fetch feed
+					vanillaApi(apiKey);
+				} else {
+					feed.textContent = 'apikey is not defined';
+				}
 			});
 
-			vanilaApi = () => {
-				fetch('https://ccf0-69-251-194-181.ngrok-free.app/api')
+			vanillaApi = (apiKey) => {
+				console.log('apiKey', apiKey);
+				fetch('https://ccf0-69-251-194-181.ngrok-free.app/api/' + apiKey)
 				.then((response) => {
 					readStream(response.body.getReader());
 				})
@@ -60,7 +66,7 @@
 
 			handleData = (data) => {
 				const jsonData = JSON.parse(data);
-				console.log('data', jsonData);
+				//console.log('data', jsonData);
 
 				jsonData.results?.forEach(item => {
 					item.moments?.forEach(moment => {
